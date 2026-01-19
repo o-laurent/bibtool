@@ -1,6 +1,6 @@
 # bibtool.py
 
-A small vibe-coded Python script to help clean and organize BibTeX files. It focuses on simplifying conference names, removing unnecessary metadata, and keeping your bibliography tidy. We provide an example bibliography and the corresponding cleaned version.
+A small vibe-coded Python script to help clean and organize BibTeX files. It focuses on simplifying conference names, removing unnecessary metadata, and keeping your bibliography tidy. We provide an example bibliography and the corresponding cleaned version in the `example` folder.
 
 ## Features
 
