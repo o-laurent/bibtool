@@ -39,4 +39,4 @@ python bibtool.py library.bib --reset-keys -o cleaned.bib
 
 ## Note
 
-This script is provided as-is, without any guarantees or warranties. It is designed to be aggressive in removing fields that are often considered clutter. Please back up your original `.bib` files before use.
+This script is provided as-is, without any guarantees. It is designed to be aggressive in removing fields that are often considered clutter. Please back up your original `.bib` files before use.
